@@ -2,401 +2,605 @@
   {
     "image": "images/products/athletic-cotton-socks-6-pairs.jpg",
     "name": "Black and Gray Athletic Cotton Socks - 6 Pairs",
+    "brand": "StrideFlex",
+    "category": "socks",
+    "description": "Comfortable and breathable cotton socks for sports and daily wear.",
     "rating": {
       "stars": 4.5,
       "count": 87
     },
-    "priceCents": 1090
+    "priceCents": 1090,
+    "stock": 150,
+    "featured": true
   },
   {
     "image": "images/products/intermediate-composite-basketball.jpg",
     "name": "Intermediate Size Basketball",
+    "brand": "StrideFlex",
+    "category": "sports",
+    "description": "Durable composite basketball for indoor and outdoor play.",
     "rating": {
       "stars": 4,
       "count": 127
     },
-    "priceCents": 2095
+    "priceCents": 2095,
+    "stock": 80,
+    "featured": true
   },
   {
     "image": "images/products/adults-plain-cotton-tshirt-2-pack-teal.jpg",
     "name": "Adults Plain Cotton T-Shirt - 2 Pack",
+    "brand": "FreshStyle",
+    "category": "tshirt",
+    "description": "Soft cotton t-shirt suitable for all-day wear.",
     "rating": {
       "stars": 4.5,
       "count": 56
     },
-    "priceCents": 799
+    "priceCents": 799,
+    "stock": 120,
+    "featured": false
   },
   {
     "image": "images/products/black-2-slot-toaster.jpg",
     "name": "2 Slot Toaster - Black",
+    "brand": "KitchenMate",
+    "category": "appliances",
+    "description": "Compact toaster with 2 slots and adjustable browning settings.",
     "rating": {
       "stars": 5,
       "count": 2197
     },
-    "priceCents": 1899
+    "priceCents": 1899,
+    "stock": 40,
+    "featured": false
   },
   {
     "image": "images/products/6-piece-white-dinner-plate-set.jpg",
     "name": "6 Piece White Dinner Plate Set",
+    "brand": "HomeStyle",
+    "category": "kitchen",
+    "description": "Elegant white dinner plates made from durable ceramic.",
     "rating": {
       "stars": 4,
       "count": 37
     },
-    "priceCents": 2067
+    "priceCents": 2067,
+    "stock": 60,
+    "featured": false
   },
   {
     "image": "images/products/6-piece-non-stick-baking-set.webp",
     "name": "6-Piece Nonstick, Carbon Steel Oven Bakeware Baking Set",
+    "brand": "ChefEssentials",
+    "category": "kitchen",
+    "description": "Complete non-stick bakeware set for baking enthusiasts.",
     "rating": {
       "stars": 4.5,
       "count": 175
     },
-    "priceCents": 3499
+    "priceCents": 3499,
+    "stock": 75,
+    "featured": true
   },
   {
     "image": "images/products/plain-hooded-fleece-sweatshirt-yellow.jpg",
     "name": "Plain Hooded Fleece Sweatshirt",
+    "brand": "FreshStyle",
+    "category": "sweatshirt",
+    "description": "Soft fleece hoodie ideal for casual comfort.",
     "rating": {
       "stars": 4.5,
       "count": 317
     },
-    "priceCents": 2400
+    "priceCents": 2400,
+    "stock": 110,
+    "featured": true
   },
   {
     "image": "images/products/luxury-tower-set-6-piece.jpg",
     "name": "Luxury Towel Set - Graphite Gray",
+    "brand": "HomeEssence",
+    "category": "bathroom",
+    "description": "Soft and absorbent 6-piece towel set for everyday use.",
     "rating": {
       "stars": 4.5,
       "count": 144
     },
-    "priceCents": 3599
+    "priceCents": 3599,
+    "stock": 90,
+    "featured": false
   },
   {
     "image": "images/products/liquid-laundry-detergent-plain.jpg",
     "name": "Liquid Laundry Detergent, 110 Loads, 82.5 Fl Oz",
+    "brand": "FreshClean",
+    "category": "household",
+    "description": "Powerful detergent for deep cleaning and fresh scent.",
     "rating": {
       "stars": 4.5,
       "count": 305
     },
-    "priceCents": 2899
+    "priceCents": 2899,
+    "stock": 130,
+    "featured": false
   },
   {
     "image": "images/products/knit-athletic-sneakers-gray.jpg",
     "name": "Waterproof Knit Athletic Sneakers - Gray",
+    "brand": "StrideFlex",
+    "category": "shoes",
+    "description": "Lightweight, waterproof sneakers for active lifestyles.",
     "rating": {
       "stars": 4,
       "count": 89
     },
-    "priceCents": 3390
+    "priceCents": 3390,
+    "stock": 70,
+    "featured": false
   },
   {
     "image": "images/products/women-chiffon-beachwear-coverup-black.jpg",
     "name": "Women's Chiffon Beachwear Cover Up - Black",
+    "brand": "FreshStyle",
+    "category": "beachwear",
+    "description": "Elegant chiffon cover-up, perfect for beach days.",
     "rating": {
       "stars": 4.5,
       "count": 235
     },
-    "priceCents": 2070
+    "priceCents": 2070,
+    "stock": 85,
+    "featured": false
   },
   {
     "image": "images/products/round-sunglasses-black.jpg",
     "name": "Round Sunglasses",
+    "brand": "SunNova",
+    "category": "accessory",
+    "description": "Stylish black round sunglasses with UV protection.",
     "rating": {
       "stars": 4.5,
       "count": 30
     },
-    "priceCents": 1560
+    "priceCents": 1560,
+    "stock": 150,
+    "featured": false
   },
   {
     "image": "images/products/women-beach-sandals.jpg",
     "name": "Women's Two Strap Buckle Sandals - Tan",
+    "brand": "ComfySteps",
+    "category": "sandals",
+    "description": "Comfortable beach sandals with classic buckle design.",
     "rating": {
       "stars": 4.5,
       "count": 562
     },
-    "priceCents": 2499
+    "priceCents": 2499,
+    "stock": 95,
+    "featured": false
   },
   {
     "image": "images/products/blackout-curtain-set-beige.webp",
     "name": "Blackout Curtains Set 4-Pack - Beige",
+    "brand": "HomeComfort",
+    "category": "curtains",
+    "description": "Light-blocking curtains to keep your room dark and cozy.",
     "rating": {
       "stars": 4.5,
       "count": 232
     },
-    "priceCents": 4599
+    "priceCents": 4599,
+    "stock": 60,
+    "featured": true
   },
   {
     "image": "images/products/men-slim-fit-summer-shorts-gray.jpg",
     "name": "Men's Slim-Fit Summer Shorts",
+    "brand": "UrbanEdge",
+    "category": "shorts",
+    "description": "Lightweight and breathable summer shorts for men.",
     "rating": {
       "stars": 4,
       "count": 160
     },
-    "priceCents": 1699
+    "priceCents": 1699,
+    "stock": 100,
+    "featured": true
   },
   {
     "image": "images/products/electric-glass-and-steel-hot-water-kettle.webp",
     "name": "Electric Glass and Steel Hot Tea Water Kettle - 1.7-Liter",
+    "brand": "QuickBoil",
+    "category": "appliances",
+    "description": "Fast-boiling electric kettle with glass and stainless steel design.",
     "rating": {
       "stars": 5,
       "count": 846
     },
-    "priceCents": 3074
+    "priceCents": 3074,
+    "stock": 75,
+    "featured": false
   },
   {
     "image": "images/products/facial-tissue-2-ply-18-boxes.jpg",
     "name": "Ultra Soft Tissue 2-Ply - 18 Box",
+    "brand": "SoftTouch",
+    "category": "household",
+    "description": "Gentle and absorbent facial tissue for everyday use.",
     "rating": {
       "stars": 4,
       "count": 99
     },
-    "priceCents": 2374
+    "priceCents": 2374,
+    "stock": 90,
+    "featured": false
   },
   {
-    "id": "a82c6bac-3067-4e68-a5ba-d827ac0be010",
     "image": "images/products/straw-sunhat.webp",
     "name": "Straw Lifeguard Sun Hat",
+    "brand": "SunNova",
+    "category": "hat",
+    "description": "Wide-brim straw sun hat for full UV protection.",
     "rating": {
       "stars": 4,
       "count": 215
     },
-    "priceCents": 2200
+    "priceCents": 2200,
+    "stock": 50,
+    "featured": false
   },
   {
-    "id": "e4f64a65-1377-42bc-89a5-e572d19252e2",
     "image": "images/products/sky-flower-stud-earrings.webp",
     "name": "Sterling Silver Sky Flower Stud Earrings",
+    "brand": "Eleganza",
+    "category": "jewelry",
+    "description": "Elegant sterling silver earrings with floral design.",
     "rating": {
       "stars": 4.5,
       "count": 52
     },
-    "priceCents": 1799
+    "priceCents": 1799,
+    "stock": 65,
+    "featured": false
   },
   {
-    "id": "b0f17cc5-8b40-4ca5-9142-b61fe3d98c85",
     "image": "images/products/women-stretch-popover-hoodie-black.jpg",
     "name": "Women's Stretch Popover Hoodie",
+    "brand": "ComfyWear",
+    "category": "hoodie",
+    "description": "Comfortable and stretchy popover hoodie for everyday wear.",
     "rating": {
       "stars": 4.5,
       "count": 2465
     },
-    "priceCents": 1374
+    "priceCents": 1374,
+    "stock": 100,
+    "featured": true
   },
   {
-    "id": "a93a101d-79ef-4cf3-a6cf-6dbe532a1b4a",
     "image": "images/products/bathroom-rug.jpg",
     "name": "Bathroom Bath Rug Mat 20 x 31 Inch - Grey",
+    "brand": "HomeComfort",
+    "category": "bathroom",
+    "description": "Soft and absorbent rug mat for bathroom floors.",
     "rating": {
       "stars": 4.5,
       "count": 119
     },
-    "priceCents": 1250
+    "priceCents": 1250,
+    "stock": 80,
+    "featured": true
   },
   {
-    "id": "4f4fbcc2-4e72-45cc-935c-9e13d79cc57f",
     "image": "images/products/women-knit-ballet-flat-black.jpg",
     "name": "Women's Knit Ballet Flat",
+    "brand": "ComfySteps",
+    "category": "shoes",
+    "description": "Lightweight ballet flats perfect for daily wear.",
     "rating": {
       "stars": 4,
       "count": 326
     },
-    "priceCents": 2640
+    "priceCents": 2640,
+    "stock": 60,
+    "featured": false
   },
   {
-    "id": "8b5a2ee1-6055-422a-a666-b34ba28b76d4",
     "image": "images/products/men-golf-polo-t-shirt-blue.jpg",
     "name": "Men's Regular-Fit Quick-Dry Golf Polo Shirt",
+    "brand": "StrideFlex",
+    "category": "tshirt",
+    "description": "Quick-dry polo shirt designed for golf and active wear.",
     "rating": {
       "stars": 4.5,
       "count": 2556
     },
-    "priceCents": 1599
+    "priceCents": 1599,
+    "stock": 75,
+    "featured": false
   },
   {
-    "id": "b86ddc8b-3501-4b17-9889-a3bad6fb585f",
     "image": "images/products/trash-can-with-foot-pedal-50-liter.jpg",
     "name": "Trash Can with Foot Pedal - Brushed Stainless Steel",
+    "brand": "FreshClean",
+    "category": "household",
+    "description": "Large-capacity stainless steel trash can with foot pedal.",
     "rating": {
       "stars": 4.5,
       "count": 2286
     },
-    "priceCents": 8300
+    "priceCents": 8300,
+    "stock": 40,
+    "featured": false
   },
   {
-    "id": "19c6a64a-5463-4d45-9af8-e41140a4100c",
     "image": "images/products/duvet-cover-set-blue-twin.jpg",
     "name": "Duvet Cover Set with Zipper Closure",
+    "brand": "HomeComfort",
+    "category": "bedding",
+    "description": "Soft and breathable duvet cover set with secure zipper.",
     "rating": {
       "stars": 4,
       "count": 456
     },
-    "priceCents": 2399
+    "priceCents": 2399,
+    "stock": 70,
+    "featured": false
   },
   {
-    "id": "d2785924-743d-49b3-8f03-ec258e640503",
     "image": "images/products/women-chunky-beanie-gray.webp",
     "name": "Women's Chunky Cable Beanie - Gray",
+    "brand": "CozyKnit",
+    "category": "hat",
+    "description": "Warm chunky knit beanie for winter comfort.",
     "rating": {
       "stars": 5,
       "count": 83
     },
-    "priceCents": 1250
+    "priceCents": 1250,
+    "stock": 90,
+    "featured": false
   },
   {
-    "id": "ee1f7c56-f977-40a4-9642-12ba5072e2b0",
     "image": "images/products/men-chino-pants-beige.jpg",
     "name": "Men's Classic-fit Pleated Chino Pants",
+    "brand": "UrbanEdge",
+    "category": "pants",
+    "description": "Classic-fit pleated chinos for business or casual wear.",
     "rating": {
       "stars": 4.5,
       "count": 9017
     },
-    "priceCents": 2290
+    "priceCents": 2290,
+    "stock": 150,
+    "featured": false
   },
   {
-    "id": "1c079479-8586-494f-ab53-219325432536",
     "image": "images/products/men-athletic-shoes-green.jpg",
     "name": "Men's Athletic Sneaker",
+    "brand": "StrideFlex",
+    "category": "shoes",
+    "description": "Durable sneakers for running, gym, or everyday use.",
     "rating": {
       "stars": 4,
       "count": 229
     },
-    "priceCents": 3890
+    "priceCents": 3890,
+    "stock": 55,
+    "featured": false
   },
   {
-    "id": "4df68c27-fd59-4a6a-bbd1-e754ddb6d53c",
     "image": "images/products/men-navigator-sunglasses-brown.jpg",
     "name": "Men's Navigator Sunglasses Pilot",
+    "brand": "SunNova",
+    "category": "accessory",
+    "description": "Stylish pilot-style sunglasses with UV protection.",
     "rating": {
       "stars": 3.5,
       "count": 42
     },
-    "priceCents": 1690
+    "priceCents": 1690,
+    "stock": 30,
+    "featured": false
   },
   {
-    "id": "4e37dd03-3b23-4bc6-9ff8-44e112a92c64",
     "image": "images/products/non-stick-cooking-set-15-pieces.webp",
     "name": "Non-Stick Cookware Set, Pots, Pans and Utensils - 15 Pieces",
+    "brand": "ChefEssentials",
+    "category": "kitchen",
+    "description": "All-in-one non-stick cookware set for everyday cooking.",
     "rating": {
       "stars": 4.5,
       "count": 511
     },
     "priceCents": 6797,
-    "keywords": ["cooking set", "kitchen"]
+    "stock": 50,
+    "featured": false
   },
   {
-    "id": "a434b69f-1bc1-482d-9ce7-cd7f4a66ce8d",
     "image": "images/products/vanity-mirror-silver.jpg",
     "name": "Vanity Mirror with Heavy Base - Chrome",
+    "brand": "HomeStyle",
+    "category": "household",
+    "description": "Elegant chrome vanity mirror with a heavy base for stability and sleek design.",
     "rating": {
       "stars": 4.5,
       "count": 130
     },
-    "priceCents": 1649
+    "priceCents": 1649,
+    "stock": 42,
+    "featured": false
   },
   {
-    "id": "a45cfa0a-66d6-4dc7-9475-e2b01595f7d7",
     "image": "images/products/women-french-terry-fleece-jogger-camo.jpg",
     "name": "Women's Fleece Jogger Sweatpant",
+    "category": "pants",
+    "brand": "ComfyWear",
+    "description": "Cozy fleece jogger sweatpants designed for warmth and comfort with a stylish fit.",
     "rating": {
       "stars": 4.5,
       "count": 248
     },
-    "priceCents": 2400
+    "priceCents": 2400,
+    "stock": 87,
+    "featured": true
   },
   {
-    "id": "d339adf3-e004-4c20-a120-40e8874c66cb",
     "image": "images/products/double-elongated-twist-french-wire-earrings.webp",
     "name": "Double Oval Twist French Wire Earrings - Gold",
-    "rating": {
-      "stars": 4.5,
-      "count": 117
-    },
-    "priceCents": 2400
+    "rating": { "stars": 4.5, "count": 117 },
+    "priceCents": 2400,
+    "category": "jewelry",
+    "brand": "Eleganza",
+    "featured": false,
+    "stock": 55,
+    "description": "Stylish double oval twist earrings with gold finish and French wire design."
   },
   {
-    "id": "d37a651a-d501-483b-aae6-a9659b0757a0",
     "image": "images/products/round-airtight-food-storage-containers.jpg",
     "name": "Round Airtight Food Storage Containers - 5 Piece",
-    "rating": {
-      "stars": 4,
-      "count": 126
-    },
-    "priceCents": 2899
+    "rating": { "stars": 4, "count": 126 },
+    "priceCents": 2899,
+    "category": "kitchen",
+    "brand": "KitchenMate",
+    "featured": false,
+    "stock": 63,
+    "description": "Keep your food fresh with these airtight, durable, round storage containers."
   },
   {
-    "id": "0d7f9afa-2efe-4fd9-b0fd-ba5663e0a524",
     "image": "images/products/coffeemaker-with-glass-carafe-black.jpg",
     "name": "Coffeemaker with Glass Carafe and Reusable Filter - 25 Oz, Black",
-    "rating": {
-      "stars": 4.5,
-      "count": 1211
-    },
-    "priceCents": 2250
+    "rating": { "stars": 4.5, "count": 1211 },
+    "priceCents": 2250,
+    "category": "appliances",
+    "brand": "BrewMate",
+    "featured": true,
+    "stock": 120,
+    "description": "25 oz coffeemaker with reusable filter and glass carafe for fresh brewing."
   },
   {
-    "id": "02e3a47e-dd68-467e-9f71-8bf6f723fdae",
     "image": "images/products/blackout-curtains-black.jpg",
     "name": "Blackout Curtains Set 42 x 84-Inch - Black, 2 Panels",
+    "category": "curtains",
+    "brand": "HomeComfort",
+    "description": "Enhance sleep with light-blocking curtains. Comes in a 2-panel black set.",
     "rating": {
       "stars": 4.5,
       "count": 363
     },
-    "priceCents": 3099
+    "priceCents": 3099,
+    "stock": 76,
+    "featured": false
   },
   {
-    "id": "8a53b080-6d40-4a65-ab26-b24ecf700bce",
     "image": "images/products/cotton-bath-towels-teal.webp",
     "name": "100% Cotton Bath Towels - 2 Pack, Light Teal",
-    "rating": {
-      "stars": 4.5,
-      "count": 93
-    },
-    "priceCents": 2110
+    "rating": { "stars": 4.5, "count": 93 },
+    "priceCents": 2110,
+    "category": "bathroom",
+    "brand": "HomeEssence",
+    "featured": false,
+    "stock": 94,
+    "description": "Soft and absorbent 100% cotton bath towels in a calming light teal color."
   },
   {
-    "id": "10ed8504-57db-433c-b0a3-fc71a35c88a1",
     "image": "images/products/knit-athletic-sneakers-pink.webp",
     "name": "Waterproof Knit Athletic Sneakers - Pink",
+    "category": "shoes",
+    "brand": "ComfySteps",
+    "description": "Stylish and waterproof athletic sneakers with breathable knit material.",
     "rating": {
       "stars": 4,
       "count": 89
     },
-    "priceCents": 3390
+    "priceCents": 3390,
+    "stock": 48,
+    "featured": true
   },
   {
     "image": "images/products/countertop-blender-64-oz.jpg",
     "name": "Countertop Blender - 64oz, 1400 Watts",
+    "category": "appliances",
+    "brand": "KitchenMate",
+    "description": "High-powered 1400W blender with a large 64oz capacity for smoothies and more.",
     "rating": {
       "stars": 4,
       "count": 3
     },
-    "priceCents": 10747
+    "priceCents": 10747,
+    "stock": 22,
+    "featured": false
   },
   {
     "image": "images/products/floral-mixing-bowl-set.jpg",
     "name": "10-Piece Mixing Bowl Set with Lids - Floral",
+    "brand": "KitchenMate",
+    "category": "kitchen",
+    "description": "Floral-themed 10-piece mixing bowl set with lids, perfect for baking and storage.",
     "rating": {
       "stars": 5,
       "count": 679
     },
-    "priceCents": 3899
+    "priceCents": 3899,
+    "stock": 97,
+    "featured": true
   },
   {
     "image": "images/products/kitchen-paper-towels-30-pack.jpg",
     "name": "2-Ply Kitchen Paper Towels - 30 Pack",
+    "category": "kitchen",
+    "brand": "ChefEssentials",
+    "description": "Strong and absorbent 2-ply paper towels ideal for kitchen use. 30 rolls per pack.",
     "rating": {
       "stars": 4.5,
       "count": 1045
     },
-    "priceCents": 5799
+    "priceCents": 5799,
+    "stock": 150,
+    "featured": false
   },
   {
     "image": "images/products/men-cozy-fleece-zip-up-hoodie-red.jpg",
     "name": "Men's Full-Zip Hooded Fleece Sweatshirt",
+    "category": "sweatshirt",
+    "brand": "ComfyWear",
+    "description": "Comfortable fleece hoodie with full zip, ideal for warmth and everyday wear.",
     "rating": {
       "stars": 4.5,
       "count": 3157
     },
-    "priceCents": 2400
+    "priceCents": 2400,
+    "stock": 130,
+    "featured": true
+  },
+  {
+    "image": "images/products/backpack.jpg",
+    "name": "Waterproof Travel Backpack",
+    "brand": "EasyGo",
+    "category": "bags",
+    "description": "Durable waterproof backpack ideal for travel, school, or outdoor adventures.",
+    "rating": {
+      "stars": 4.5,
+      "count": 482
+    },
+    "priceCents": 3499,
+    "stock": 85,
+    "featured": true
+  },
+  {
+    "image": "images/products/umbrella.jpg",
+    "name": "Compact Windproof Travel Umbrella",
+    "brand": "EasyGo",
+    "category": "accessories",
+    "description": "Lightweight, foldable umbrella designed to withstand strong winds.",
+    "rating": {
+      "stars": 4,
+      "count": 289
+    },
+    "priceCents": 1799,
+    "stock": 150,
+    "featured": false
   }
 ]

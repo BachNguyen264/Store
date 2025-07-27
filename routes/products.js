@@ -3,6 +3,7 @@ const productRouter = express.Router();
 const asyncWrapper = require("../utils/asyncWrapper");
 const {
   getProducts,
+  getProductsQuery,
   getSingleProducts,
   createProduct,
   updateProduct,
@@ -11,7 +12,7 @@ const {
 
 productRouter
   .route("/")
-  .get(asyncWrapper(getProducts))
+  .get(asyncWrapper(getProductsQuery))
   .post(asyncWrapper(createProduct));
 productRouter
   .route("/:id")
